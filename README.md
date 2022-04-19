@@ -174,7 +174,10 @@ Function That Returns The Amount Of Indetifiers.
 
 # Authors
 
-Chidozie Ogwalu -@gentomamacine
-Israel Adenuga -@adexino0606
+Maanga Denis 
+Email: 
+
+Stephen Lyonga Azeh 
+Email: stephenazeh39@gmail.com 
  
  # End
